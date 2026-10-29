@@ -78,3 +78,32 @@ Quick Sort може да се имплементира без создавање
 
 
 Времето на извршување зависи од големината на влезот, изборот на pivot, имплементацијата, компајлерот и хардверот.
+
+Но пресметка преку кодот за
+-рекурзивно
+
+Elementi: 100
+Vreme: 0 sekundi
+Iteracii: 208
+
+Elementi: 10000
+Vreme: 0 sekundi
+Iteracii: 36050
+
+Elementi: 1000000
+Vreme: 0.086 sekundi
+Iteracii: 5784640
+
+-итеративно
+
+Elementi: 100
+Vreme: 0 sekundi
+Iteracii: 194
+
+Elementi: 10000
+Vreme: 0.001 sekundi
+Iteracii: 36493
+
+Elementi: 1000000
+Vreme: 0.084 sekundi
+Iteracii: 5782188
